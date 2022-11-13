@@ -1,8 +1,7 @@
 
 # Iterative Fibonacci Algorithm
-### The time complexity of the above code is T(N), i.e., linear. 
-#####We have to find the sum of two terms, and it is repeated n times depending on the value of n.
-###The space complexity of the above code is O(N).
+### The time complexity of the above code is T(N), i.e., linear. We have to find the sum of two terms, and it is repeated n times depending on the value of n.
+### The space complexity of the above code is O(N).
 ```
 def iterative_fibonacci(n):
     a, b = 0, 1 
